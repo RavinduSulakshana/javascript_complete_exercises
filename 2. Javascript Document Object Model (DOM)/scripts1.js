@@ -152,3 +152,4 @@ for(var i of odd){
 for(var j of even){
     j.style.backgroundColor = '#1422eb';
 }
+console.log("i ceated this awsome console.log in here merge it u wont forgt it")
